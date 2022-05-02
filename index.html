@@ -25,15 +25,15 @@
 }
 
 function change2(){
-     var c = new Date().getHours();
-     if(c < 12){
-      alert('Good morning!');
+     var a = new Date().getHours();
+     if(a < 10){
+      alert('Good morning!')
      }
-     else if(c > 12 || c < 18){
-      alert('Good afternoon!');
+     else if(a < 20){
+      alert('Good afternoon!')
      }
-     else if(c > 18 || c < 24){
-      alert('Good evening!');
+     else{
+      alert('Good evening!')
      }
 }
 
