@@ -1,0 +1,198 @@
+body{
+	background-image: url(https://i0.wp.com/zeevector.com/wp-content/uploads/Old-Paper-Background-Free.png?resize=600%2C907&ssl=1);
+	background-size: cover;
+}
+#one{
+	font-family: Lobster;
+	font-size: 50px;
+	text-shadow: 5px 5px 3px darkgoldenrod;
+}
+#two{
+	height: 260px; 
+	width: 710px;
+}
+#three{
+	font-family: Quintessential;
+}
+.four{
+	font-size: 40px;
+	color: brown;
+	font-style: italic;
+}
+.five{
+	color: brown;
+	font-style: italic;
+}
+.six{
+	height: 350px;
+	width: 580px;
+}
+iframe{
+	border-width: 10px;
+	border-style: ridge;
+	border-color: lightgray;
+}
+#seven{
+	font-family: Akaya Telivigala;
+	font-size: 40px;
+	font-style: italic;
+	margin-top: 50px;
+	text-shadow: 5px 5px 3px darkgoldenrod;
+}
+#eight{
+	height: 250px;
+	width: 700px;
+}
+.nine{
+	font-size: 55px;
+	color: darkslategray;
+	font-style: italic;
+	font-style: bold;
+	text-shadow: 3px 3px 3px gray;
+}
+.ten{
+	margin-top: 80px;
+	margin-bottom: 80px;
+	height: 350px;
+	width: 580px;
+}
+table, th, td{
+	font-size: 20px;
+	border: 4px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	line-height: 25px;
+	padding: 15px;
+}
+th{
+font-size: 25px;
+}
+table{
+	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.6)), url(https://wallpapercave.com/wp/wp2829214.jpg);
+	background-size: cover;
+    width: 85%;
+}
+#table{
+	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.6)), url(https://wallpaperstock.net/wallpapers/thumbs1/34879.jpg);
+    width: 85%;
+    background-size: 150% 113%;
+    margin-bottom: 75px;
+}
+h3{
+	font-size: 40px;
+	font-style: italic;
+	color: darkslategray;
+}
+.eleven{
+	font-size: 25px;
+	width: 85%;
+}
+#twelve{
+	height: 250px;
+	width: 942px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	border-width: 10px;
+	border-style: ridge;
+	border-color: lightgray;
+	border-radius: 20px;
+}
+.images{
+	height: 155px;
+	width: 120px;
+}
+.images:hover{
+	opacity: 0.7;
+}
+.thirteen{
+	font-size: 40px;
+	font-style: italic;
+	color: darkblue;
+	text-decoration: underline;
+}
+#fourteen{
+	font-size: 24px;
+	font-style: italic;
+}
+#fifteen{
+	height: 350px;
+	width: 550px;
+	border-width: 10px;
+	border-style: ridge;
+	border-color: lightgray;
+}
+#fifteen:hover{
+	opacity: 0.7;
+}
+.sixteen{
+	height: 430px;
+	width: 300px;
+	margin-top: 40px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-width: 10px;
+	border-style: outset;
+	border-color: brown;
+}
+.sixteen:hover{
+	opacity: 0.7;
+}
+#seventeen{
+	background-image: none;
+	margin-bottom: 200px;
+}
+.class{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.text{
+	font-size: 32px;
+	margin-bottom: 40px;
+	color: brown;
+	font-family: Lobster;
+}
+.navigation{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-left: -8px;
+    font-size: 20px;
+    font-style: italic;
+}
+ul{
+    margin-left: -40px;
+    margin-top: -1px;
+}
+.navigation:hover{
+    background-color: darkgoldenrod;
+}
+#eighteen{
+	margin-left: 1295px;
+	text-decoration: none;
+	font-size: 30px;
+	border: 3px solid darkred;
+	background-color: burlywood;
+	color: brown;
+	font-style: italic;
+	padding: 4px;
+	border-radius: 10px;
+}
+#eighteen:hover{
+	background-color: lightyellow;
+}
+#nineteen{
+	margin-left: 1237px;
+	text-decoration: none;
+	font-size: 30px;
+	border: 3px solid black;
+	background-color: lightgrey;
+	color: darkblue;
+	font-style: italic;
+	padding: 4px;
+	border-radius: 10px;
+}
+#nineteen:hover{
+	background-color: lightyellow;
+}
